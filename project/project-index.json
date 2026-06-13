@@ -116,6 +116,11 @@
           "label": "Tekst posta",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-magnet-not-every-metal/linkedin-facebook-post.md",
           "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-magnet-not-every-metal/manifest.json",
+          "kind": "view"
         }
       ]
     },
@@ -144,6 +149,11 @@
         {
           "label": "Tekst posta",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-seasons-not-distance/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-seasons-not-distance/manifest.json",
           "kind": "view"
         }
       ]
@@ -174,6 +184,11 @@
           "label": "Tekst posta",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-moon-phases-not-earth-shadow/linkedin-facebook-post.md",
           "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-12-moon-phases-not-earth-shadow/manifest.json",
+          "kind": "view"
         }
       ]
     },
@@ -202,6 +217,11 @@
         {
           "label": "Tekst posta",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-apollo13-not-just-gravity/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-apollo13-not-just-gravity/manifest.json",
           "kind": "view"
         }
       ]
@@ -232,6 +252,11 @@
           "label": "Tekst posta",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-voyager-grand-tour/linkedin-facebook-post.md",
           "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-voyager-grand-tour/manifest.json",
+          "kind": "view"
         }
       ]
     },
@@ -260,6 +285,11 @@
         {
           "label": "Tekst posta",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-galileo-earth-twice/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-galileo-earth-twice/manifest.json",
           "kind": "view"
         }
       ]
@@ -327,7 +357,7 @@
       "name": "Gotowość App Store",
       "description": "Publiczne podsumowanie metadanych, narracji, QA i bramek przed archiwum. Audyt Kids/App Review: 9/9; automatyczny preflight urządzeń: 0/36.",
       "status": {
-        "label": "WAITING · 6 BLOKAD",
+        "label": "WAITING · 7 BLOKAD",
         "tone": "waiting"
       },
       "sourceBranch": "main",
@@ -351,7 +381,7 @@
       "name": "Materiały App Store",
       "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "CURRENT PREVIEW",
+        "label": "PREVIEW STALE",
         "tone": "review"
       },
       "sourceBranch": "main",
