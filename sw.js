@@ -1,5 +1,7 @@
-const CACHE = "kosmiczne-laboratorium-e3ab18c843696836";
+const CACHE = "kosmiczne-laboratorium-8375d6e88db8426a";
 const OFFLINE_URL = "./index.html";
+const PROTECT_PRIVATE_ROUTES = true;
+const PRIVATE_SERVICE_WORKER_PREFIXES = ["review","__voice-review"];
 const PRECACHE_URLS = [
   "./404.html",
   "./art/gouache-discovery-treasure-book-mobile.png",
@@ -166,6 +168,70 @@ const PRECACHE_URLS = [
   "./support/index.html"
 ];
 
+function scopedServiceWorkerPath(requestUrl, scopeUrl) {
+  let requestPath;
+  let scopePath;
+  try {
+    requestPath = decodeURIComponent(new URL(requestUrl).pathname);
+    scopePath = decodeURIComponent(new URL(scopeUrl).pathname);
+  } catch {
+    return null;
+  }
+
+  const normalizedScope = scopePath.endsWith("/")
+    ? scopePath
+    : `${scopePath}/`;
+  if (!requestPath.startsWith(normalizedScope)) return null;
+
+  return requestPath
+    .slice(normalizedScope.length)
+    .replace(/^\/+/, "")
+    .toLowerCase();
+}
+
+function isPrivateServiceWorkerRoute(
+  requestUrl,
+  scopeUrl,
+  prefixes = PRIVATE_SERVICE_WORKER_PREFIXES,
+) {
+  const path = scopedServiceWorkerPath(requestUrl, scopeUrl);
+  if (path === null) return false;
+  return prefixes.some(
+    (prefix) => path === prefix || path.startsWith(`${prefix}/`),
+  );
+}
+
+function privateRouteResponse() {
+  return new Response("Not found", {
+    status: 404,
+    headers: {
+      "Cache-Control": "no-store",
+      "Content-Type": "text/plain; charset=utf-8",
+      "X-Robots-Tag": "noindex, nofollow, noarchive",
+    },
+  });
+}
+
+async function purgePrivateCacheEntries() {
+  const keys = await caches.keys();
+  await Promise.all(
+    keys.map(async (key) => {
+      const cache = await caches.open(key);
+      const requests = await cache.keys();
+      await Promise.all(
+        requests
+          .filter((request) =>
+            isPrivateServiceWorkerRoute(
+              request.url,
+              self.registration.scope,
+            ),
+          )
+          .map((request) => cache.delete(request)),
+      );
+    }),
+  );
+}
+
 self.addEventListener("install", (event) => {
   event.waitUntil(
     caches.open(CACHE).then((cache) => cache.addAll(PRECACHE_URLS)),
@@ -175,13 +241,21 @@ self.addEventListener("install", (event) => {
 
 self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches.keys().then((keys) =>
-      Promise.all(
-        keys
-          .filter((key) => key.startsWith("kosmiczne-laboratorium-") && key !== CACHE)
-          .map((key) => caches.delete(key)),
+    caches
+      .keys()
+      .then((keys) =>
+        Promise.all(
+          keys
+            .filter(
+              (key) =>
+                key.startsWith("kosmiczne-laboratorium-") && key !== CACHE,
+            )
+            .map((key) => caches.delete(key)),
+        ),
+      )
+      .then(() =>
+        PROTECT_PRIVATE_ROUTES ? purgePrivateCacheEntries() : undefined,
       ),
-    ),
   );
   self.clients.claim();
 });
@@ -192,6 +266,14 @@ self.addEventListener("fetch", (event) => {
 
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
+
+  if (
+    PROTECT_PRIVATE_ROUTES &&
+    isPrivateServiceWorkerRoute(request.url, self.registration.scope)
+  ) {
+    event.respondWith(Promise.resolve(privateRouteResponse()));
+    return;
+  }
 
   if (request.mode === "navigate") {
     event.respondWith(
