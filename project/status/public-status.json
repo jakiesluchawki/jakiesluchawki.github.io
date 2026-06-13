@@ -73,8 +73,8 @@
       }
     },
     "screenshotPlan": {
-      "status": "CURRENT PREVIEW",
-      "previewCurrent": true,
+      "status": "PREVIEW STALE",
+      "previewCurrent": false,
       "technicalReview": "TECHNICAL VISUAL REVIEW",
       "reviewedAt": "2026-06-13",
       "recordedCompositions": 18,
