@@ -1,4 +1,4 @@
-const CACHE = "kosmiczne-laboratorium-a581766710619cec";
+const CACHE = "kosmiczne-laboratorium-a4a3563d510c3771";
 const OFFLINE_URL = "./index.html";
 const PRECACHE_URLS = [
   "./404.html",
@@ -64,11 +64,11 @@ const PRECACHE_URLS = [
   "./art/planets/saturn.png",
   "./art/planets/uranus.png",
   "./art/planets/venus.png",
-  "./assets/index-BaVplzRt.js",
+  "./assets/index-CEcmV8GS.js",
   "./assets/index-DxiNCbZe.css",
-  "./assets/web-CUllfSFP.js",
-  "./assets/web-CnmMdy8K.js",
-  "./assets/web-D3w8Un4q.js",
+  "./assets/web-BZ39aont.js",
+  "./assets/web-COqZp34L.js",
+  "./assets/web-DoArD0k9.js",
   "./audio/music/bright-future.mp3",
   "./audio/music/fragile-nature.mp3",
   "./audio/music/glittering-grandeur.mp3",
