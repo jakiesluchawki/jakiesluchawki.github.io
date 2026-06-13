@@ -91,6 +91,171 @@
       ]
     },
     {
+      "id": "social-complete-library",
+      "section": "social",
+      "name": "Wszystkie materiały w jednym ZIP-ie",
+      "description": "Pełna gotowa biblioteka: dziewięć paczek social, pakiet medialny, propozycja dla CNK i uniwersalny pakiet współpracy.",
+      "status": {
+        "label": "READY · 52 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Pobierz wszystkie materiały",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/kosmiczne-laboratorium-wszystkie-materialy.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Manifest biblioteki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/wszystkie-materialy-manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-complete-posts",
+      "section": "social",
+      "name": "Wszystkie materiały social w JPG",
+      "description": "Zbiorczy ZIP z dziewięcioma paczkami, 45 Stories, 18 obrazami do Facebooka i LinkedIna, tekstami oraz manifestami.",
+      "status": {
+        "label": "READY · 27 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Pobierz materiały social",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/kosmiczne-laboratorium-social-wszystko-jpg.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-media-kit",
+      "section": "social",
+      "name": "Ogólny pakiet medialny",
+      "description": "Opis aplikacji, notka prasowa, FAQ, cytat i siedem obrazów w gotowym ZIP-ie oraz formatach PDF, DOCX i Markdown.",
+      "status": {
+        "label": "READY",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/kosmiczne-laboratorium-pakiet-medialny.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Pobierz PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/kosmiczne-laboratorium-pakiet-medialny.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Pobierz DOCX",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/kosmiczne-laboratorium-pakiet-medialny.docx",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst prasowy",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/informacje-prasowe.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest pakietu",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-cnk-pitch",
+      "section": "social",
+      "name": "Propozycja dla Centrum Nauki Kopernik",
+      "description": "Gotowa propozycja rozmowy i pilotażu 4–6 tygodni wraz z edytowalnym dokumentem i treścią wiadomości.",
+      "status": {
+        "label": "READY",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Pobierz PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Pobierz DOCX",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.docx",
+          "kind": "download"
+        },
+        {
+          "label": "Treść wiadomości",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/email-do-cnk.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest propozycji",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-partner-kit",
+      "section": "social",
+      "name": "Uniwersalny pakiet współpracy",
+      "description": "One-pager, pełna propozycja, cztery wzory wiadomości i materiały dla instytucji edukacyjnych, kulturalnych i wydawniczych.",
+      "status": {
+        "label": "READY · 17 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/kosmiczne-laboratorium-pakiet-wspolpracy.zip",
+          "kind": "download"
+        },
+        {
+          "label": "One-pager PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/kosmiczne-laboratorium-one-pager-wspolpraca.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Pełny PDF",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/kosmiczne-laboratorium-pakiet-wspolpracy.pdf",
+          "kind": "download"
+        },
+        {
+          "label": "Wzory wiadomości",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/wiadomosci-do-partnerow.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest pakietu",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
       "id": "social-discovery-notebook",
       "section": "social",
       "name": "Zeszyt odkryć: bez punktów i ocen",
@@ -483,7 +648,7 @@
       "name": "Materiały App Store",
       "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "PREVIEW STALE",
+        "label": "CURRENT WEB PREVIEW",
         "tone": "review"
       },
       "sourceBranch": "main",
