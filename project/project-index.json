@@ -96,7 +96,7 @@
       "name": "Wszystkie materiały",
       "description": "Social · media kit · CNK · współpraca. Jeden ZIP z całą gotową biblioteką. Bez pobierania poszczególnych dni.",
       "status": {
-        "label": "READY · 98 MB",
+        "label": "READY · 92 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -118,9 +118,9 @@
       "id": "social-complete-posts",
       "section": "social",
       "name": "Wszystkie materiały social",
-      "description": "24 paczki · 120 Stories · 48 obrazów do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
+      "description": "27 paczek · 135 Stories · 54 obrazy do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
       "status": {
-        "label": "READY · 73 MB",
+        "label": "READY · 66 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -251,6 +251,108 @@
         {
           "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-local-reset-starts-over",
+      "section": "social",
+      "name": "Można zacząć odkrycia od początku",
+      "description": "5 Stories · 2 posty · copy · zabezpieczony reset lokalnego postępu.",
+      "status": {
+        "label": "READY · 17 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-local-reset-starts-over/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-local-reset-starts-over/local-reset-starts-over.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-local-reset-starts-over/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-local-reset-starts-over/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-mass-is-not-size",
+      "section": "social",
+      "name": "Cięższa planeta nie musi być większa",
+      "description": "5 Stories · 2 posty · copy · prawdziwe stany masy 1/3 i 3/3.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-mass-is-not-size/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-mass-is-not-size/mass-is-not-size.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-mass-is-not-size/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-mass-is-not-size/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-orbit-race-no-steering-wheel",
+      "section": "social",
+      "name": "W tym wyścigu nie ma kierownicy",
+      "description": "5 Stories · 2 posty · copy · hamulec, dopalacz i zielony tor.",
+      "status": {
+        "label": "READY · 23 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-race-no-steering-wheel/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-race-no-steering-wheel/orbit-race-no-steering-wheel.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-race-no-steering-wheel/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-orbit-race-no-steering-wheel/manifest.json",
           "kind": "view"
         }
       ]
