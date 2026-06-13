@@ -93,8 +93,8 @@
     {
       "id": "social-complete-library",
       "section": "social",
-      "name": "Wszystkie materiały w jednym ZIP-ie",
-      "description": "Pełna gotowa biblioteka: dwadzieścia cztery paczki social, pakiet medialny, propozycja dla CNK i uniwersalny pakiet współpracy.",
+      "name": "Wszystkie materiały",
+      "description": "Social · media kit · CNK · współpraca. Jeden ZIP z całą gotową biblioteką. Bez pobierania poszczególnych dni.",
       "status": {
         "label": "READY · 98 MB",
         "tone": "ready"
@@ -103,12 +103,12 @@
       "updatedAt": "2026-06-13",
       "links": [
         {
-          "label": "Pobierz wszystkie materiały",
+          "label": "Pobierz wszystko",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/kosmiczne-laboratorium-wszystkie-materialy.zip",
           "kind": "download"
         },
         {
-          "label": "Manifest biblioteki",
+          "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/wszystkie-materialy-manifest.json",
           "kind": "view"
         }
@@ -117,8 +117,8 @@
     {
       "id": "social-complete-posts",
       "section": "social",
-      "name": "Wszystkie materiały social w JPG",
-      "description": "Zbiorczy ZIP z dwudziestoma czterema paczkami, 120 Stories, 48 obrazami do Facebooka i LinkedIna, tekstami oraz manifestami.",
+      "name": "Wszystkie materiały social",
+      "description": "24 paczki · 120 Stories · 48 obrazów do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
       "status": {
         "label": "READY · 73 MB",
         "tone": "ready"
@@ -127,12 +127,12 @@
       "updatedAt": "2026-06-13",
       "links": [
         {
-          "label": "Pobierz materiały social",
+          "label": "Pobierz",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/kosmiczne-laboratorium-social-wszystko-jpg.zip",
           "kind": "download"
         },
         {
-          "label": "Manifest paczki",
+          "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/manifest.json",
           "kind": "view"
         }
@@ -142,36 +142,36 @@
       "id": "social-media-kit",
       "section": "social",
       "name": "Ogólny pakiet medialny",
-      "description": "Opis aplikacji, notka prasowa, FAQ, cytat i siedem obrazów w gotowym ZIP-ie oraz formatach PDF, DOCX i Markdown.",
+      "description": "Opis aplikacji · notka prasowa · FAQ · cytat · 7 obrazów. Gotowy dokument PDF, wersja edytowalna i pliki źródłowe.",
       "status": {
-        "label": "READY",
+        "label": "READY · 3.9 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
       "updatedAt": "2026-06-13",
       "links": [
         {
-          "label": "Pobierz ZIP",
+          "label": "Pobierz",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/kosmiczne-laboratorium-pakiet-medialny.zip",
           "kind": "download"
         },
         {
-          "label": "Pobierz PDF",
+          "label": "PDF",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/kosmiczne-laboratorium-pakiet-medialny.pdf",
           "kind": "download"
         },
         {
-          "label": "Pobierz DOCX",
+          "label": "DOCX",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/kosmiczne-laboratorium-pakiet-medialny.docx",
           "kind": "download"
         },
         {
-          "label": "Tekst prasowy",
+          "label": "Tekst",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/informacje-prasowe.md",
           "kind": "view"
         },
         {
-          "label": "Manifest pakietu",
+          "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/media-kit/manifest.json",
           "kind": "view"
         }
@@ -180,37 +180,37 @@
     {
       "id": "social-cnk-pitch",
       "section": "social",
-      "name": "Propozycja dla Centrum Nauki Kopernik",
-      "description": "Gotowa propozycja rozmowy i pilotażu 4–6 tygodni wraz z edytowalnym dokumentem i treścią wiadomości.",
+      "name": "Pitch dla Centrum Nauki Kopernik",
+      "description": "Propozycja rozmowy · pilotaż 4–6 tygodni · gotowy e-mail. Dokument oparty na publicznej misji CNK, działaniach B+R i programie ESERO.",
       "status": {
-        "label": "READY",
+        "label": "READY · 3.4 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
       "updatedAt": "2026-06-13",
       "links": [
         {
-          "label": "Pobierz ZIP",
+          "label": "Pobierz",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.zip",
           "kind": "download"
         },
         {
-          "label": "Pobierz PDF",
+          "label": "PDF",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.pdf",
           "kind": "download"
         },
         {
-          "label": "Pobierz DOCX",
+          "label": "DOCX",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.docx",
           "kind": "download"
         },
         {
-          "label": "Treść wiadomości",
+          "label": "E-mail",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/email-do-cnk.md",
           "kind": "view"
         },
         {
-          "label": "Manifest propozycji",
+          "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/cnk-pitch/manifest.json",
           "kind": "view"
         }
@@ -220,7 +220,7 @@
       "id": "social-partner-kit",
       "section": "social",
       "name": "Uniwersalny pakiet współpracy",
-      "description": "One-pager, pełna propozycja, cztery wzory wiadomości i materiały dla instytucji edukacyjnych, kulturalnych i wydawniczych.",
+      "description": "One-pager · pełna propozycja · 4 wiadomości · checklista. Dla centrów nauki, muzeów, bibliotek, fundacji, wydawców i partnerów edukacyjnych.",
       "status": {
         "label": "READY · 17 MB",
         "tone": "ready"
@@ -229,7 +229,7 @@
       "updatedAt": "2026-06-13",
       "links": [
         {
-          "label": "Pobierz ZIP",
+          "label": "Pobierz",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/kosmiczne-laboratorium-pakiet-wspolpracy.zip",
           "kind": "download"
         },
@@ -244,12 +244,12 @@
           "kind": "download"
         },
         {
-          "label": "Wzory wiadomości",
+          "label": "Wiadomości",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/wiadomosci-do-partnerow.md",
           "kind": "view"
         },
         {
-          "label": "Manifest pakietu",
+          "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/manifest.json",
           "kind": "view"
         }
@@ -259,7 +259,7 @@
       "id": "social-music-without-voice",
       "section": "social",
       "name": "Muzyka może zostać, kiedy głos milczy",
-      "description": "Pięć Stories, dwa obrazy i copy pokazujące niezależne sterowanie narracją oraz muzyką i pozostawienie ciszy na obserwację podczas eksperymentu.",
+      "description": "5 Stories · 2 posty · copy · niezależna narracja i muzyka.",
       "status": {
         "label": "READY · 20 MB",
         "tone": "ready"
@@ -293,7 +293,7 @@
       "id": "social-opposite-seasons",
       "section": "social",
       "name": "Zima w Polsce, lato w Nowej Zelandii",
-      "description": "Pięć Stories, dwa obrazy i copy pokazujące przeciwną porę roku na półkulach w tej samej chwili i przy tej samej pozycji Ziemi na orbicie.",
+      "description": "5 Stories · 2 posty · copy · ta sama pozycja na orbicie.",
       "status": {
         "label": "READY · 21 MB",
         "tone": "ready"
@@ -327,7 +327,7 @@
       "id": "social-same-moon-moving-light",
       "section": "social",
       "name": "To ten sam Księżyc. Zmienia się światło",
-      "description": "Pięć Stories, dwa obrazy i copy pokazujące jedną malarską powierzchnię Księżyca, po której przesuwa się oświetlenie między dwiema kwadrami.",
+      "description": "5 Stories · 2 posty · copy · jedna powierzchnia i dwie kwadry.",
       "status": {
         "label": "READY · 22 MB",
         "tone": "ready"
@@ -361,7 +361,7 @@
       "id": "social-touch-model",
       "section": "social",
       "name": "Ruch palca zmienia model",
-      "description": "Pięć Stories, dwa obrazy i copy pokazujące, jak przeciągnięcie Księżyca zmienia położenie na orbicie i obserwowaną fazę, z równoważnymi dużymi przyciskami faz.",
+      "description": "5 Stories · 2 posty · copy · prawdziwa orbita i przyciski faz.",
       "status": {
         "label": "READY · 21 MB",
         "tone": "ready"
@@ -395,7 +395,7 @@
       "id": "social-six-open-discoveries",
       "section": "social",
       "name": "Sześć odkryć pozostaje otwartych",
-      "description": "Pięć Stories, dwa obrazy i copy pokazujące, że wszystkie sześć odkryć pozostaje widocznych i dostępnych, a postęp tylko podpowiada kolejny krok.",
+      "description": "5 Stories · 2 posty · copy · prawdziwa mapa po trzech i sześciu odkryciach.",
       "status": {
         "label": "READY · 19 MB",
         "tone": "ready"
@@ -429,7 +429,7 @@
       "id": "social-open-question",
       "section": "social",
       "name": "Dobre pytanie nie zamyka odkrycia",
-      "description": "Pięć Stories, dwa obrazy i copy o przejściu od ukończonego eksperymentu do własnego wyjaśnienia dziecka i wspólnej rozmowy bez jednego klucza odpowiedzi.",
+      "description": "5 Stories · 2 posty · copy · refleksja i rozmowa bez klucza odpowiedzi.",
       "status": {
         "label": "READY · 18 MB",
         "tone": "ready"
@@ -463,7 +463,7 @@
       "id": "social-native-art",
       "section": "social",
       "name": "Grafiki do postów zaczynają się w aplikacji",
-      "description": "Pięć Stories, dwa obrazy i copy pokazujące, że język wizualny materiałów social wyrasta z malarskiego świata aplikacji i prawdziwego ekranu produktu.",
+      "description": "5 Stories · 2 posty · copy · wybrany kierunek i prawdziwy ekran.",
       "status": {
         "label": "READY · 21 MB",
         "tone": "ready"
@@ -497,7 +497,7 @@
       "id": "social-first-minute",
       "section": "social",
       "name": "Pierwsza minuta prowadzi do hipotezy",
-      "description": "Pięć Stories, dwa obrazy i copy o przejściu od ciekawości oraz wyboru misji do własnego przewidywania dziecka przed rozpoczęciem eksperymentu.",
+      "description": "5 Stories · 2 posty · copy · otwarcie, mapa i przewidywanie.",
       "status": {
         "label": "READY · 20 MB",
         "tone": "ready"
@@ -531,7 +531,7 @@
       "id": "social-return-to-discovery",
       "section": "social",
       "name": "Do zapisanego odkrycia można wrócić",
-      "description": "Pięć Stories, dwa obrazy i copy o powrocie do zapisanej próby, ponownym otwarciu wyjaśnienia i aktualizacji wniosku po zdobyciu nowych dowodów.",
+      "description": "5 Stories · 2 posty · copy · zeszyt i aktualizacja wyjaśnienia.",
       "status": {
         "label": "READY · 19 MB",
         "tone": "ready"
@@ -565,7 +565,7 @@
       "id": "social-grid-map",
       "section": "social",
       "name": "Siatka jest modelem, nie zdjęciem kosmosu",
-      "description": "Pięć Stories, dwa obrazy i copy wyjaśniające, że siatka grawitacyjna jest wizualnym modelem pomagającym zrozumieć zakrzywienie toru.",
+      "description": "5 Stories · 2 posty · copy · prawdziwy ekran siatki.",
       "status": {
         "label": "READY · 20 MB",
         "tone": "ready"
@@ -599,7 +599,7 @@
       "id": "social-accessibility",
       "section": "social",
       "name": "Spokojniejszy odbiór, to samo laboratorium",
-      "description": "Pięć Stories, dwa obrazy i copy o presecie dostępności, który uspokaja prezentację bez usuwania eksperymentu ani toku odkrycia.",
+      "description": "5 Stories · 2 posty · copy · preset dostępności.",
       "status": {
         "label": "READY · 17 MB",
         "tone": "ready"
@@ -633,7 +633,7 @@
       "id": "social-wrong-answer",
       "section": "social",
       "name": "Zaskoczenie jest częścią eksperymentu",
-      "description": "Pięć Stories, dwa obrazy i copy o nietrafionym przewidywaniu, które pozostaje użyteczną informacją zamiast błędem karanym punktami.",
+      "description": "5 Stories · 2 posty · copy · nietrafione przewidywanie.",
       "status": {
         "label": "READY · 22 MB",
         "tone": "ready"
@@ -667,7 +667,7 @@
       "id": "social-data-stays-here",
       "section": "social",
       "name": "Postęp zostaje na urządzeniu",
-      "description": "Pięć Stories, dwa obrazy i copy o prywatności dzieci: bez konta, reklam, zewnętrznej analityki i zdalnego profilu postępu.",
+      "description": "5 Stories · 2 posty · copy · prywatność dzieci.",
       "status": {
         "label": "READY · 17 MB",
         "tone": "ready"
@@ -701,7 +701,7 @@
       "id": "social-cooperative-signal",
       "section": "social",
       "name": "Dwa ruchy, jeden wspólny sygnał",
-      "description": "Pięć Stories, dwa obrazy i copy o misji załogi, w której dwa niezależne poprawne ruchy uruchamiają jeden wspólny sygnał.",
+      "description": "5 Stories · 2 posty · copy · prawdziwa misja załogi.",
       "status": {
         "label": "READY · 21 MB",
         "tone": "ready"
@@ -735,7 +735,7 @@
       "id": "social-voice-makes-room",
       "section": "social",
       "name": "Głos robi miejsce na odkrycie",
-      "description": "Pięć Stories, dwa obrazy i copy o opcjonalnej narracji, która pomaga wejść w zadanie i zostawia przestrzeń na obserwację.",
+      "description": "5 Stories · 2 posty · copy · uczciwy stan narracji.",
       "status": {
         "label": "READY · 19 MB",
         "tone": "ready"
@@ -766,46 +766,12 @@
       ]
     },
     {
-      "id": "social-discovery-notebook",
-      "section": "social",
-      "name": "Zeszyt odkryć: bez punktów i ocen",
-      "description": "Pięć Stories, dwa obrazy i copy o zapisywaniu przewidywań, prób i wyjaśnień.",
-      "status": {
-        "label": "READY",
-        "tone": "ready"
-      },
-      "sourceBranch": "SM",
-      "updatedAt": "2026-06-13",
-      "links": [
-        {
-          "label": "Podgląd",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/preview.png",
-          "kind": "view"
-        },
-        {
-          "label": "Pobierz ZIP",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/discovery-notebook.zip",
-          "kind": "download"
-        },
-        {
-          "label": "Tekst posta",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/linkedin-facebook-post.md",
-          "kind": "view"
-        },
-        {
-          "label": "Manifest paczki",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/manifest.json",
-          "kind": "view"
-        }
-      ]
-    },
-    {
       "id": "social-orbit",
       "section": "social",
-      "name": "Orbita: ciągłe spadanie",
-      "description": "Pięć Stories, dwa obrazy i copy o tym, dlaczego ruch do przodu pozwala obiektowi stale mijać Ziemię.",
+      "name": "Orbita to ciągłe spadanie",
+      "description": "5 Stories · 2 posty · copy · źródła NASA.",
       "status": {
-        "label": "READY",
+        "label": "READY · 21 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -834,12 +800,46 @@
       ]
     },
     {
+      "id": "social-discovery-notebook",
+      "section": "social",
+      "name": "Zeszyt odkryć zamiast punktów",
+      "description": "5 Stories · 2 posty · copy · decyzja produktowa.",
+      "status": {
+        "label": "READY · 20 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/discovery-notebook.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-discovery-notebook/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
       "id": "social-responsive-lab",
       "section": "social",
       "name": "To samo laboratorium na każdym ekranie",
-      "description": "Pięć Stories, dwa obrazy i copy o zachowaniu pełnego toku odkrycia na telefonie i tablecie.",
+      "description": "5 Stories · 2 posty · copy · telefon i tablet.",
       "status": {
-        "label": "READY",
+        "label": "READY · 19 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -870,10 +870,10 @@
     {
       "id": "social-magnet",
       "section": "social",
-      "name": "Magnes: nie każdy metal",
-      "description": "Pięć Stories, dwa obrazy i copy o tym, które metale są ferromagnetyczne.",
+      "name": "Czy magnes przyciąga każdy metal?",
+      "description": "5 Stories · 2 posty · copy · źródła.",
       "status": {
-        "label": "READY",
+        "label": "READY · 20 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -904,10 +904,10 @@
     {
       "id": "social-seasons",
       "section": "social",
-      "name": "Pory roku: to nie odległość",
-      "description": "Pięć Stories, dwa obrazy do postów i copy o przechyle osi Ziemi.",
+      "name": "To nachylenie osi, nie odległość",
+      "description": "5 Stories · 2 posty · copy · źródła.",
       "status": {
-        "label": "READY",
+        "label": "READY · 19 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -938,10 +938,10 @@
     {
       "id": "social-moon",
       "section": "social",
-      "name": "Fazy Księżyca: to nie cień Ziemi",
-      "description": "Pięć Stories, dwa obrazy i copy o geometrii faz Księżyca.",
+      "name": "Fazy Księżyca to nie cień Ziemi",
+      "description": "5 Stories · 2 posty · copy · źródła.",
       "status": {
-        "label": "READY",
+        "label": "READY · 18 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -972,10 +972,10 @@
     {
       "id": "social-apollo13",
       "section": "social",
-      "name": "Apollo 13: nie sama grawitacja",
-      "description": "Pakiet o trajektorii swobodnego powrotu i uruchomieniach silnika Aquarius.",
+      "name": "Apollo 13: nie tylko grawitacja",
+      "description": "5 Stories · 2 posty · copy · źródła.",
       "status": {
-        "label": "READY",
+        "label": "READY · 21 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -1006,10 +1006,10 @@
     {
       "id": "social-voyager",
       "section": "social",
-      "name": "Voyager 2: cztery wielkie planety",
-      "description": "Pakiet o rzadkim ustawieniu planet i Wielkiej Podróży Voyagera 2.",
+      "name": "Voyager 2: jedna sonda, cztery planety",
+      "description": "5 Stories · 2 posty · copy · źródła.",
       "status": {
-        "label": "READY",
+        "label": "READY · 22 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -1040,10 +1040,10 @@
     {
       "id": "social-galileo",
       "section": "social",
-      "name": "Galileo: ta sama Ziemia dwa razy",
-      "description": "Pakiet o dwóch przelotach obok Ziemi i dwuletniej pętli wokół Słońca.",
+      "name": "Galileo: dwa spotkania z Ziemią",
+      "description": "5 Stories · 2 posty · copy · źródła.",
       "status": {
-        "label": "READY",
+        "label": "READY · 19 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
