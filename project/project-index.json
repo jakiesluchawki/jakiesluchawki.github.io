@@ -265,40 +265,6 @@
       ]
     },
     {
-      "id": "social-project-update",
-      "section": "social",
-      "name": "Pierwszy dziennik projektu",
-      "description": "Siedem Stories, pionowy film z aplikacji i gotowy post o powstaniu obserwatorium.",
-      "status": {
-        "label": "READY",
-        "tone": "ready"
-      },
-      "sourceBranch": "SM",
-      "updatedAt": "2026-06-11",
-      "links": [
-        {
-          "label": "Podgląd",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-project-update/instagram-stories/podglad-zestawu.png",
-          "kind": "view"
-        },
-        {
-          "label": "Pobierz Stories ZIP",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-project-update/instagram-stories.zip",
-          "kind": "download"
-        },
-        {
-          "label": "Otwórz film",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-project-update/video/kosmiczne-laboratorium-demo.mp4",
-          "kind": "view"
-        },
-        {
-          "label": "Tekst posta",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-11-project-update/linkedin-post.md",
-          "kind": "view"
-        }
-      ]
-    },
-    {
       "id": "private-review-summary",
       "section": "application",
       "name": "Review i stół reżyserski",
