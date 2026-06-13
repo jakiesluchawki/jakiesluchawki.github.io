@@ -16,6 +16,7 @@
   "narration": {
     "status": "DRAFT / UNLOCKED",
     "scriptLocked": false,
+    "interludesApproved": false,
     "cueCount": 121,
     "roles": {
       "piotr": 17,
@@ -34,7 +35,7 @@
   },
   "appStore": {
     "status": "WAITING",
-    "blockerCount": 5,
+    "blockerCount": 6,
     "blockers": [
       {
         "id": "metadata",
@@ -47,6 +48,10 @@
       {
         "id": "script",
         "label": "Scenariusz dwóch narratorów nie ma jeszcze LOCK."
+      },
+      {
+        "id": "interludes",
+        "label": "Plansze wejściowe Piotra i przekazania Tomkowi czekają na akceptację."
       },
       {
         "id": "narration",
