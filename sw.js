@@ -1,4 +1,4 @@
-const CACHE = "kosmiczne-laboratorium-c964bb3e6e59f23f";
+const CACHE = "kosmiczne-laboratorium-ed8497d925f26de8";
 const OFFLINE_URL = "./index.html";
 const PRECACHE_URLS = [
   "./404.html",
