@@ -94,9 +94,9 @@
       "id": "social-complete-library",
       "section": "social",
       "name": "Wszystkie materiały w jednym ZIP-ie",
-      "description": "Pełna gotowa biblioteka: osiemnaście paczek social, pakiet medialny, propozycja dla CNK i uniwersalny pakiet współpracy.",
+      "description": "Pełna gotowa biblioteka: dwadzieścia jeden paczek social, pakiet medialny, propozycja dla CNK i uniwersalny pakiet współpracy.",
       "status": {
-        "label": "READY · 80 MB",
+        "label": "READY · 96 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -118,9 +118,9 @@
       "id": "social-complete-posts",
       "section": "social",
       "name": "Wszystkie materiały social w JPG",
-      "description": "Zbiorczy ZIP z osiemnastoma paczkami, 90 Stories, 36 obrazami do Facebooka i LinkedIna, tekstami oraz manifestami.",
+      "description": "Zbiorczy ZIP z dwudziestoma jeden paczkami, 105 Stories, 42 obrazami do Facebooka i LinkedIna, tekstami oraz manifestami.",
       "status": {
-        "label": "READY · 54 MB",
+        "label": "READY · 63 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -251,6 +251,108 @@
         {
           "label": "Manifest pakietu",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-touch-model",
+      "section": "social",
+      "name": "Ruch palca zmienia model",
+      "description": "Pięć Stories, dwa obrazy i copy pokazujące, jak przeciągnięcie Księżyca zmienia położenie na orbicie i obserwowaną fazę, z równoważnymi dużymi przyciskami faz.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-touch-moves-the-model/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-touch-moves-the-model/touch-moves-the-model.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-touch-moves-the-model/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-touch-moves-the-model/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-six-open-discoveries",
+      "section": "social",
+      "name": "Sześć odkryć pozostaje otwartych",
+      "description": "Pięć Stories, dwa obrazy i copy pokazujące, że wszystkie sześć odkryć pozostaje widocznych i dostępnych, a postęp tylko podpowiada kolejny krok.",
+      "status": {
+        "label": "READY · 19 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-six-discoveries-stay-open/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-six-discoveries-stay-open/six-discoveries-stay-open.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-six-discoveries-stay-open/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-six-discoveries-stay-open/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-open-question",
+      "section": "social",
+      "name": "Dobre pytanie nie zamyka odkrycia",
+      "description": "Pięć Stories, dwa obrazy i copy o przejściu od ukończonego eksperymentu do własnego wyjaśnienia dziecka i wspólnej rozmowy bez jednego klucza odpowiedzi.",
+      "status": {
+        "label": "READY · 18 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-question-keeps-it-open/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-question-keeps-it-open/question-keeps-it-open.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-question-keeps-it-open/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-question-keeps-it-open/manifest.json",
           "kind": "view"
         }
       ]
@@ -890,7 +992,7 @@
       "id": "narration-summary",
       "section": "narration",
       "name": "Piotr i Tomek: stan narracji",
-      "description": "121 kwestii: 17 Piotra i 104 Tomka. Bieżące klipy tymczasowe: 2/121; lokalny głos systemowy: 119/121. Techniczna biblioteka audio jest sprawdzana osobno.",
+      "description": "121 kwestii: 17 Piotra i 104 Tomka. Ścieżki runtime: 121/121; bieżące klipy tymczasowe: 2/121; lokalny głos systemowy: 119/121. Techniczna biblioteka audio jest sprawdzana osobno.",
       "status": {
         "label": "DRAFT / UNLOCKED",
         "tone": "waiting"

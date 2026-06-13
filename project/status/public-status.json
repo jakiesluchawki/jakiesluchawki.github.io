@@ -28,6 +28,8 @@
     "missingHumanCueCount": 121,
     "temporaryFallbackCueCount": 2,
     "systemFallbackCueCount": 119,
+    "playbackVerifiedCueCount": 121,
+    "playbackCoverageComplete": true,
     "embeddedAudio": {
       "referencedClipCount": 67,
       "playableClipCount": 67
