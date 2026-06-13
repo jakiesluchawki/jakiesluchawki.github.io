@@ -96,7 +96,7 @@
       "name": "Wszystkie materiały w jednym ZIP-ie",
       "description": "Pełna gotowa biblioteka: dwanaście paczek social, pakiet medialny, propozycja dla CNK i uniwersalny pakiet współpracy.",
       "status": {
-        "label": "READY · 63 MB",
+        "label": "READY · 60 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -120,7 +120,7 @@
       "name": "Wszystkie materiały social w JPG",
       "description": "Zbiorczy ZIP z dwunastoma paczkami, 60 Stories, 24 obrazami do Facebooka i LinkedIna, tekstami oraz manifestami.",
       "status": {
-        "label": "READY · 37 MB",
+        "label": "READY · 35 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -256,6 +256,108 @@
       ]
     },
     {
+      "id": "social-data-stays-here",
+      "section": "social",
+      "name": "Postęp zostaje na urządzeniu",
+      "description": "Pięć Stories, dwa obrazy i copy o prywatności dzieci: bez konta, reklam, zewnętrznej analityki i zdalnego profilu postępu.",
+      "status": {
+        "label": "READY · 17 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/data-stays-here.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-cooperative-signal",
+      "section": "social",
+      "name": "Dwa ruchy, jeden wspólny sygnał",
+      "description": "Pięć Stories, dwa obrazy i copy o misji załogi, w której dwa niezależne poprawne ruchy uruchamiają jeden wspólny sygnał.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/two-moves-one-signal.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-voice-makes-room",
+      "section": "social",
+      "name": "Głos robi miejsce na odkrycie",
+      "description": "Pięć Stories, dwa obrazy i copy o opcjonalnej narracji, która pomaga wejść w zadanie i zostawia przestrzeń na obserwację.",
+      "status": {
+        "label": "READY · 19 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/voice-makes-room.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
       "id": "social-discovery-notebook",
       "section": "social",
       "name": "Zeszyt odkryć: bez punktów i ocen",
@@ -353,108 +455,6 @@
         {
           "label": "Manifest paczki",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-same-lab-every-screen/manifest.json",
-          "kind": "view"
-        }
-      ]
-    },
-    {
-      "id": "social-data-stays-here",
-      "section": "social",
-      "name": "Dane zostają tutaj",
-      "description": "Pięć Stories, dwa obrazy i copy o lokalnych nazwach graczy i postępie bez kont dzieci, analityki, reklam ani zdalnego profilu.",
-      "status": {
-        "label": "READY · 18 MB",
-        "tone": "ready"
-      },
-      "sourceBranch": "SM",
-      "updatedAt": "2026-06-13",
-      "links": [
-        {
-          "label": "Podgląd",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/preview.png",
-          "kind": "view"
-        },
-        {
-          "label": "Pobierz ZIP",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/data-stays-here.zip",
-          "kind": "download"
-        },
-        {
-          "label": "Tekst posta",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/linkedin-facebook-post.md",
-          "kind": "view"
-        },
-        {
-          "label": "Manifest paczki",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-data-stays-here/manifest.json",
-          "kind": "view"
-        }
-      ]
-    },
-    {
-      "id": "social-two-moves",
-      "section": "social",
-      "name": "Dwa ruchy, jeden sygnał",
-      "description": "Pięć Stories, dwa obrazy i copy o misji orbitalnej, w której dwie niezależne poprawne decyzje uruchamiają jeden wspólny krok.",
-      "status": {
-        "label": "READY · 22 MB",
-        "tone": "ready"
-      },
-      "sourceBranch": "SM",
-      "updatedAt": "2026-06-13",
-      "links": [
-        {
-          "label": "Podgląd",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/preview.png",
-          "kind": "view"
-        },
-        {
-          "label": "Pobierz ZIP",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/two-moves-one-signal.zip",
-          "kind": "download"
-        },
-        {
-          "label": "Tekst posta",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/linkedin-facebook-post.md",
-          "kind": "view"
-        },
-        {
-          "label": "Manifest paczki",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-two-moves-one-signal/manifest.json",
-          "kind": "view"
-        }
-      ]
-    },
-    {
-      "id": "social-voice-makes-room",
-      "section": "social",
-      "name": "Głos robi miejsce na odkrycie",
-      "description": "Pięć Stories, dwa obrazy i copy o opcjonalnej narracji, która otwiera zadanie, a potem zostawia dziecku przestrzeń na obserwację.",
-      "status": {
-        "label": "READY · 20 MB",
-        "tone": "ready"
-      },
-      "sourceBranch": "SM",
-      "updatedAt": "2026-06-13",
-      "links": [
-        {
-          "label": "Podgląd",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/preview.png",
-          "kind": "view"
-        },
-        {
-          "label": "Pobierz ZIP",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/voice-makes-room.zip",
-          "kind": "download"
-        },
-        {
-          "label": "Tekst posta",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/linkedin-facebook-post.md",
-          "kind": "view"
-        },
-        {
-          "label": "Manifest paczki",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-voice-makes-room/manifest.json",
           "kind": "view"
         }
       ]
