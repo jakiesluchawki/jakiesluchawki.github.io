@@ -73,12 +73,12 @@
       }
     },
     "screenshotPlan": {
-      "status": "PREVIEW STALE",
-      "previewCurrent": false,
+      "status": "CURRENT PREVIEW",
+      "previewCurrent": true,
       "technicalReview": "TECHNICAL VISUAL REVIEW",
       "reviewedAt": "2026-06-13",
       "recordedCompositions": 18,
-      "screenshotSetHash": "57986499a6da05e8",
+      "screenshotSetHash": "573b85891101be74",
       "shotsPerDevice": 9,
       "deviceClasses": 2,
       "totalCompositions": 18
