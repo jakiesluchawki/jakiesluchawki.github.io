@@ -383,9 +383,9 @@
       "id": "screenshots-summary",
       "section": "release",
       "name": "Materiały App Store",
-      "description": "18 kompozycji podglądowych: po 9 dla iPhone'a i iPada.",
+      "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "PREVIEW ONLY",
+        "label": "CURRENT PREVIEW",
         "tone": "review"
       },
       "sourceBranch": "main",
