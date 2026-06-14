@@ -81,7 +81,7 @@
         "tone": "live"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-13",
+      "updatedAt": "2026-06-14",
       "links": [
         {
           "label": "Otwórz stronę pobrań",
@@ -96,11 +96,11 @@
       "name": "Wszystkie materiały",
       "description": "Social · media kit · CNK · współpraca. Jeden ZIP z całą gotową biblioteką. Bez pobierania poszczególnych dni.",
       "status": {
-        "label": "READY · 92 MB",
+        "label": "READY · 98 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-13",
+      "updatedAt": "2026-06-14",
       "links": [
         {
           "label": "Pobierz wszystko",
@@ -118,13 +118,13 @@
       "id": "social-complete-posts",
       "section": "social",
       "name": "Wszystkie materiały social",
-      "description": "27 paczek · 135 Stories · 54 obrazy do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
+      "description": "30 paczek · 150 Stories · 60 obrazów do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
       "status": {
-        "label": "READY · 66 MB",
+        "label": "READY · 72 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-13",
+      "updatedAt": "2026-06-14",
       "links": [
         {
           "label": "Pobierz",
@@ -148,7 +148,7 @@
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-13",
+      "updatedAt": "2026-06-14",
       "links": [
         {
           "label": "Pobierz",
@@ -187,7 +187,7 @@
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-13",
+      "updatedAt": "2026-06-14",
       "links": [
         {
           "label": "Pobierz",
@@ -226,7 +226,7 @@
         "tone": "ready"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-13",
+      "updatedAt": "2026-06-14",
       "links": [
         {
           "label": "Pobierz",
@@ -251,6 +251,108 @@
         {
           "label": "Manifest",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/partner-kit/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-earth-field-not-giant-magnet",
+      "section": "social",
+      "name": "Ziemia nie ma w środku wielkiego magnesu",
+      "description": "5 Stories · 2 posty · copy · pole magnetyczne i geodynamo.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-earth-field-not-giant-magnet/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-earth-field-not-giant-magnet/earth-field-not-giant-magnet.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-earth-field-not-giant-magnet/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-earth-field-not-giant-magnet/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-moon-keeps-one-face",
+      "section": "social",
+      "name": "Księżyc obraca się i pokazuje prawie tę samą stronę",
+      "description": "5 Stories · 2 posty · copy · obrót synchroniczny i libracja.",
+      "status": {
+        "label": "READY · 22 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-moon-keeps-one-face/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-moon-keeps-one-face/moon-keeps-one-face.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-moon-keeps-one-face/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-moon-keeps-one-face/manifest.json",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-axis-keeps-direction",
+      "section": "social",
+      "name": "Oś Ziemi nie obraca się za Słońcem",
+      "description": "5 Stories · 2 posty · copy · stały kierunek osi i przełącznik przechyłu.",
+      "status": {
+        "label": "READY · 21 MB",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-14",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-axis-keeps-direction/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-axis-keeps-direction/axis-keeps-direction.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-axis-keeps-direction/linkedin-facebook-post.md",
+          "kind": "view"
+        },
+        {
+          "label": "Manifest paczki",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-14-axis-keeps-direction/manifest.json",
           "kind": "view"
         }
       ]
