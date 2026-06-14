@@ -96,7 +96,7 @@
       "name": "Wszystkie materiały",
       "description": "Social · media kit · CNK · współpraca. Jeden ZIP z całą gotową biblioteką. Bez pobierania poszczególnych dni.",
       "status": {
-        "label": "READY · 98 MB",
+        "label": "READY · 117 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -104,7 +104,7 @@
       "links": [
         {
           "label": "Pobierz wszystko",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/kosmiczne-laboratorium-wszystkie-materialy.zip",
+          "url": "https://github.com/jakiesluchawki/kosmiczne-laboratorium-media/releases/download/media-latest/kosmiczne-laboratorium-wszystkie-materialy.zip",
           "kind": "download"
         },
         {
@@ -120,7 +120,7 @@
       "name": "Wszystkie materiały social",
       "description": "30 paczek · 150 Stories · 60 obrazów do postów · teksty. Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.",
       "status": {
-        "label": "READY · 72 MB",
+        "label": "READY · 91 MB",
         "tone": "ready"
       },
       "sourceBranch": "SM",
@@ -128,7 +128,7 @@
       "links": [
         {
           "label": "Pobierz",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/downloads/kosmiczne-laboratorium-social-wszystko-jpg.zip",
+          "url": "https://github.com/jakiesluchawki/kosmiczne-laboratorium-media/releases/download/media-latest/kosmiczne-laboratorium-social-wszystko-jpg.zip",
           "kind": "download"
         },
         {
@@ -1338,7 +1338,7 @@
       "name": "Gotowość App Store",
       "description": "Publiczne podsumowanie metadanych, narracji, QA i bramek przed archiwum. Audyt Kids/App Review: 9/9; automatyczny preflight urządzeń: 0/36.",
       "status": {
-        "label": "WAITING · 6 BLOKAD",
+        "label": "WAITING · 7 BLOKAD",
         "tone": "waiting"
       },
       "sourceBranch": "main",
@@ -1362,7 +1362,7 @@
       "name": "Materiały App Store",
       "description": "18/18 aktualnych kompozycji technicznych: po 9 dla iPhone'a i iPada. Finalny eksport nadal wymaga zaakceptowanego archiwum.",
       "status": {
-        "label": "CURRENT WEB PREVIEW",
+        "label": "PREVIEW STALE",
         "tone": "review"
       },
       "sourceBranch": "main",
